@@ -1,0 +1,5 @@
+It first go to the repo directory.
+Then set PYTHONPATH to empty.
+Run the nosetests and output to the testoutput file. Generate the code coverage info.
+Generate a xml file for testing
+Run pylint over the whole package. It analyzes the code, like syntax and duplicated code.
